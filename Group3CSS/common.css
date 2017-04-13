@@ -1,0 +1,10 @@
+.nbp_hover:hover {  font-size: 40px;
+                    color: red; }
+
+#nbp_contact { 
+	padding: 10px;
+        border-top: 20px;
+        border-color: green;
+        border-bottom: 50px;
+        margin:30px;
+}

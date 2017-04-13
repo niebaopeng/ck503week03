@@ -1,0 +1,58 @@
+/*
+GARTEH nelson First HIA.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Modified on : Nov 28 March 2017
+    by     : Nelson Godard Garteh
+*/
+body {
+    background-color: hotpink;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: yellow;
+    text-align: center;
+}
+h3 {
+    color: blue;
+    text-align: center;
+}
+h4 {
+    color: indigo;
+    text-align: center;
+}
+
+h5 {
+    color: gray;
+    text-align: center;
+}
+
+h6 {
+    color: greenred;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+ul.a {
+    list-style-type: circle;
+}
+
+ul.b {
+    list-style-type: square;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+}
